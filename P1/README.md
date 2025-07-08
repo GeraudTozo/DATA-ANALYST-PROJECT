@@ -20,7 +20,7 @@ Une entreprise souhaite suivre les performances de ses ventes **par région** et
 
 Le fichier Excel comporte plusieurs feuilles de travail :
 
-1. **README_EXCEL** : Documentation et présentation du fichier Performance.xlsx
+1. **README_EXCEL** : Documentation et présentation du fichier Dashboard
 2. **Données brutes** : données initiales issues du fichier CSV
 3. **Données nettoyées** : nettoyage et transformation des données
 4. **TCD** : tableaux croisés dynamiques utilisés pour les analyses
@@ -62,7 +62,9 @@ Le fichier Excel comporte plusieurs feuilles de travail :
 
 > 💾 Vous pouvez télécharger le fichier Excel complet ici :
 
-[📥 Télécharger le Dashboard Excel](dashboard.xlsx)
+[📥 Télécharger le Dashboard](Superstore_Performance.xlsx)
+
+[📥 Télécharger le Dashboard Bonus](Bonus.xlsx)
 
 ---
 
@@ -81,7 +83,8 @@ Grâce à ce tableau de bord interactif, l’entreprise peut :
   - Tableaux croisés dynamiques (TCD)
   - Graphiques dynamiques
   - Segments interactifs
-- **Fichier CSV** comme source de données
+
+- **Fichier CSV** comme source de données (https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
 ---
 
