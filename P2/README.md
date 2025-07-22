@@ -1,6 +1,8 @@
-# 📊 Analyse de la performance des employés - Projet RH orienté business
+# 📊 Projet 2 — Analyse de la performance des employés - Projet RH orienté business
 
-Ce projet a pour objectif de comprendre les écarts de performance entre les employés d’une entreprise, afin d’identifier les profils atypiques (top performers & underperformers) et formuler des recommandations concrètes pour les équipes RH.
+## 📌 Problématique métier
+
+Une entreprise souhaite optimiser sa gestion RH en analysant les scores de performance, l’engagement, la satisfaction, et d’autres facteurs liés au profil des employés.
 
 ---
 
@@ -21,21 +23,30 @@ Le projet suit une démarche analytique complète, avec un storytelling clair et
 > L’entreprise souhaite améliorer sa stratégie RH en identifiant les facteurs liés à la performance et les écarts entre groupes d’employés.
 
 ### 2. 🔍 Exploration des données
-> Description de la population : âge, sexe, statut, ancienneté, département, etc.
+> Dans cette étape, nous allons :
+- Charger et examiner le jeu de données RH
+- Comprendre la structure et les variables disponibles.
 
-### 3. 📈 Analyse de la performance
+### 3. 🧍‍♂️ Profil des employés
+> Exploration des employé selon :
+- La répartition par sexe
+- Le statut marital
+- Le statut professionnel
+- La répartition par département
+
+### 4. 📈 Analyse de la performance
 > Comparaison des scores de performance selon :
 - Sexe
 - Département
 - Statut professionnel
 - Statut marital  
-> Corrélations avec engagement, satisfaction, salaire, ancienneté
+> Corrélations avec engagement, satisfaction, salaire
 
-### 4. 🚨 Identification des profils atypiques
+### 5. 🚨 Identification des profils atypiques
 > Isolation des employés très performants ou très faibles.  
 > Étude de leurs caractéristiques : facteurs communs ? leviers à renforcer ou corriger ?
 
-### 5. ✅ Recommandations RH
+### 6. ✅ Recommandations RH
 > Propositions concrètes pour :
 - Fidéliser les top performers
 - Accompagner les underperformers
@@ -51,14 +62,13 @@ Le projet suit une démarche analytique complète, avec un storytelling clair et
 - Calculs statistiques (corrélations)
 - Détection d'outliers
 - Interprétation métier et recommandations RH
-- Storytelling analytique structuré
 
 ---
 
 ## 📎 Exemple de visualisations
 
-![Exemple de heatmap](assets/heatmap_correlation.png)  
-![Répartition des performances](assets/distribution_performance.png)
+![Répartition des performances](assets/performance.png)
+![Heatmap de correlation](assets/heatmap_correlation.png)  
 
 ---
 
@@ -74,20 +84,19 @@ Le projet suit une démarche analytique complète, avec un storytelling clair et
 
 ## 📂 Fichiers du repo
 
-- `notebook_analysis.ipynb` : le notebook principal avec tout le processus
-- `data/` : dossier contenant les données (si open source ou fictives) https://www.kaggle.com/datasets/rhuebner/human-resources-data-set
+- [📥 Télécharger le notebook principal](notebook_projet_2.ipynb)
+- `data/` : données brutes https://www.kaggle.com/datasets/rhuebner/human-resources-data-set
 - `assets/` : visualisations exportées
 
 ---
 
-## 👨 Réalisé par
+## 📌 Auteur
 
-> Réalisé par [Ton Nom] — Portfolio de Data Analyst  
-> [LinkedIn](https://linkedin.com/in/ton-profil) | [GitHub](https://github.com/ton-pseudo)
+TOZO Koffi Géraud
+📫 [coco.geraud@gmail.com] 
 
-**Ton nom ici**  
-🎓 Data Analyst Junior  
-📫 [ton.email@email.com]  
-🔗 [ton profil LinkedIn ou Portfolio]
 ---
 
+## 📅 Date
+
+Juillet 2025
