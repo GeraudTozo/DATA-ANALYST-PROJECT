@@ -91,6 +91,7 @@ Grâce à ce tableau de bord interactif, l’entreprise peut :
 ## 📌 Auteur
 
 TOZO Koffi Géraud
+📫 [coco.geraud@gmail.com] 
 
 ---
 
