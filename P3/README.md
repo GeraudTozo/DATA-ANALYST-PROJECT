@@ -91,7 +91,11 @@ Le projet suit une démarche analytique complète, avec un **storytelling clair 
 ## 📂 Fichiers du repo
 
 - [📥 Télécharger le notebook principal](notebook_projet_3.ipynb)
+
+- Consulter le notebook  : [![Ouvrir dans Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GeraudTozo/DATA-ANALYST-PROJECT/blob/main/P3/notebook_projet_3.ipynb)
+
 - `data/` : données commerciales brutes (https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
+
 - `assets/` : visualisations exportées (heatmaps, boxplots, barplots, etc.)
 
 ---
