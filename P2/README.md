@@ -85,6 +85,11 @@ Le projet suit une démarche analytique complète, avec un storytelling clair et
 ## 📂 Fichiers du repo
 
 - [📥 Télécharger le notebook principal](notebook_projet_2.ipynb)
+
+-👉 [Ouvrir le notebook dans Google Colab](https://colab.research.google.com/github/GeraudTozo/DATA-ANALYST-PROJECT/blob/main/P2/notebook_projet_2.ipynb)
+
+-[![Consulter le notebook](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GeraudTozo/DATA-ANALYST-PROJECT/blob/main/P2/notebook_projet_2.ipynb)
+
 - `data/` : données brutes https://www.kaggle.com/datasets/rhuebner/human-resources-data-set
 - `assets/` : visualisations exportées
 
