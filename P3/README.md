@@ -73,7 +73,6 @@ Le projet suit une démarche analytique complète, avec un **storytelling clair 
 
 ![Top 10 des profits par produits](assets/Top_10_produits.png)
 ![Top 10 des ventes par Etat](assets/Top_10_Etat.png)
-![CA selon la region par produits](assets/CA_region_categorie.png)
 ![Heatmap des corrélations](assets/Heatmap.png)
 
 ---
@@ -92,7 +91,7 @@ Le projet suit une démarche analytique complète, avec un **storytelling clair 
 
 - [📥 Télécharger le notebook principal](notebook_projet_3.ipynb)
 
-- Consulter le notebook  : [![Ouvrir dans Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GeraudTozo/DATA-ANALYST-PROJECT/blob/main/P3/notebook_projet_3.ipynb)
+- Consulter le notebook :  [![Ouvrir dans Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GeraudTozo/DATA-ANALYST-PROJECT/blob/main/P3/notebook_projet_3.ipynb)
 
 - `data/` : données commerciales brutes (https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
@@ -103,6 +102,7 @@ Le projet suit une démarche analytique complète, avec un **storytelling clair 
 ## 📌 Auteur
 
 TOZO Koffi Géraud
+
 📫 [coco.geraud@gmail.com] 
 
 ---
